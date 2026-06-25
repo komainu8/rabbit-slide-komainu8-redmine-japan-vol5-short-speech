@@ -1,0 +1,66 @@
+= Redmine全文検索プラグインの\nいちおしポイント！
+
+: author
+   堀本 泰弘
+: institution
+   株式会社クリアコード
+: content-source
+   Redmine Japan Vol.5
+: date
+   2026-06-26
+: allotted-time
+   2m
+: start-time
+   2026-06-26T15:05+09:00
+: end-time
+   2023-03-19T15:07+09:00
+: theme
+   clear-code
+
+= ごあいさつ
+
+Redmine20周年\nおめでとうございます🎉🎉🎉
+
+= 全文検索プラグイン
+
+検索が便利に！
+
+= いちおしポイント
+
+いちおしポイントをピックアップして\n紹介します！
+
+= いちおしポイント
+
+速度
+
+= 検索速度
+
+数十倍速くなることも!
+
+= ソート
+
+  # image
+  # src = images/sort-scores.png
+  # relative_height = 100
+
+= 添付ファイル内検索
+
+  # image
+  # src = images/ticket-with-attachment.png
+  # relative_height = 100
+
+= 添付ファイル内検索
+
+  # image
+  # src = images/contents-of-attachment.png
+  # relative_height = 65
+
+= 添付ファイル内検索
+
+  # image
+  # src = images/result-of-search.png
+  # relative_height = 100
+
+= おわりに
+
+ぜひ\n試してみてください！
