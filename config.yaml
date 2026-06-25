@@ -1,0 +1,28 @@
+---
+id: redmine-japan-vol5
+base_name: introduction-redmin-full-text-search-plugin
+tags: [
+  rabbit,
+  redmine,
+  redmine-full-text-search,
+  fts
+]
+presentation_date: 2026-06-26
+presentation_start_time:
+presentation_end_time:
+version: 1.0.0
+licenses: [CC-BY-SA-4.0, CC-BY-3.0]
+slideshare_id:
+speaker_deck_id:
+vimeo_id:
+youtube_id:
+width: 1920
+height: 1080
+source_code_uri:
+author:
+  markup_language: :rd
+  name: Horimoto Yasuhiro
+  email: horimoto@clear-code.com
+  rubygems_user: komainu8
+  slideshare_user:
+  speaker_deck_user:
